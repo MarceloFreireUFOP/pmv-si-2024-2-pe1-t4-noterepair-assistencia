@@ -6,18 +6,18 @@
 
 `SEMESTRE`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Os objetivos da NoteRepair são proporcionar um monitoramento eficiente e transparente de serviços de assistência técnica para notebooks, centralizar o processo de busca, agendamento e acompanhamento de reparos, e facilitar a entrega e devolução do notebook através de uma única plataforma web.
 
 ## Integrantes
 
-Pedro Paulo Salman de Oliveira
+* Pedro Paulo Salman de Oliveira
 * Nome completo do aluno 2
 * Nome completo do aluno 3
 * Nome completo do aluno 4
 
 ## Orientador
 
-* Nome completo do professor 1
+* Michelle Hanne Soares de Andrade
 
 ## Instruções de utilização
 
