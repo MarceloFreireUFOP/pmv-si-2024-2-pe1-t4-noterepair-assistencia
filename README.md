@@ -1,17 +1,17 @@
 # NoteRepair
 
-`CURSO`
+`CURSO: Sistemas de Informação`
 
-`DISCIPLINA`
+`DISCIPLINA: Projeto: Aplicações Web`
 
-`SEMESTRE`
+`SEMESTRE: 1º`
 
 Os objetivos da NoteRepair são proporcionar um monitoramento eficiente e transparente de serviços de assistência técnica para notebooks, centralizar o processo de busca, agendamento e acompanhamento de reparos, e facilitar a entrega e devolução do notebook através de uma única plataforma web.
 
 ## Integrantes
 
 * Pedro Paulo Salman de Oliveira
-* Nome completo do aluno 2
+* João Victor dos Santos
 * Nome completo do aluno 3
 * Nome completo do aluno 4
 
